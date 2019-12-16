@@ -2,3 +2,4 @@
 applications:
   - name: ruby-sample-app
     random-route: true
+    
