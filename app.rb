@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Hello SUSE customer!'
+  'Hello CLaudio customer!'
 end
